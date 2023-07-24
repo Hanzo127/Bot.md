@@ -28,12 +28,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // Owner
 global.owner = [
+  ['6281272308541'],
   ['62813353348480'],
-  ['62813353348480'],
-  ['62813353348480', 'Reelly XD', 'reellyxd01@gmail.com', true]
+  ['62813353348480', 'owen violet', 'yaqin6037@gmail.com', true]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['62813353348480'] // Premium user has unlimited limit
+global.prems = ['6281272308541'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -86,8 +86,8 @@ fs.watchFile(file_exif, () => {
 global.version = '1.0.0'
 global.sessionName = 'Reelly'
 global.gcbot = 'https://chat.whatsapp.com/KQNULqXsSWm4e9qbGfwGa6'
-global.instagram = 'https://instagram.com/reellyxd'
-global.namebot = 'Reelly Rpg PlayGround'
+global.instagram = 'https://instagram.com/nier_89'
+global.namebot = 'violet'
 global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
 global.thumb = 'https://telegra.ph/file/96d00335b194ad6bf97c2.jpg'
 global.thumbnail = 'https://telegra.ph/file/96d00335b194ad6bf97c2.jpg'
@@ -95,12 +95,12 @@ global.giflogo2 = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
 global.qris = 'https://telegra.ph/file/ce0037b2c2bb2ded15e40.jpg'
 
 // Sosial Media
-global.sig = 'https://instagram.com/reellyxd'
-global.syt = 'https://youtube.com/@ReellyXd'
-global.sgh = 'https://github.com/ReellyXD'
-global.sgc = 'https://chat.whatsapp.com/KQNULqXsSWm4e9qbGfwGa6'
-global.swa = 'https://wa.me/62813353348480'
-global.swb = 'Https://youtube.com//@ReellyXd'
+global.sig = 'https://instagram.com/nier_89'
+global.syt = 'nothing'
+global.sgh = 'nothing'
+global.sgc = 'nothing'
+global.swa = 'https://wa.me/6281272308541'
+global.swb = 'nothing'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 // Pembayaran
@@ -122,8 +122,8 @@ global.useMulti = true
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = '© Reelly Bot, Since 2023'
-global.wm2 = 'Reelly-Bot Rpg PlayGround'
+global.wm = '© violet.md, Since 2023'
+global.wm2 = 'violet.md'
 global.bottime = `Time: ${wktuwib}`
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.titlebot = `${global.wm}`
@@ -131,8 +131,8 @@ global.author = 'Made By'  //Buat Wm Stiker
 global.packname = '\nReelly Bot\nNo Bot: wa.me/6281335334848'
 global.danied = '✘ ERROR 404'
 global.ultahowner = 'Desember 12 2023'
-global.nomorown = '62813353348480'
-global.nameown = 'ReellyXD'
+global.nomorown = '6281272308541'
+global.nameown = 'violet'
 global.wait = 'Tunggu Sebentar...'
 
 // Tampilan
